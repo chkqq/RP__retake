@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "E:\\edu\\RP__retake\\rp2025-summer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0222D54-4E46-4746-B620-705BE9777073}|task01\\StringLib\\StringLib.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task01\\stringlib\\textutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0222D54-4E46-4746-B620-705BE9777073}|task01\\StringLib\\StringLib.csproj|solutionrelative:task01\\stringlib\\textutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28DEEEF8-9A36-46FC-AF74-B7C4EAC71D71}|task03\\ModelLib\\ModelLib.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task03\\modellib\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DEEEF8-9A36-46FC-AF74-B7C4EAC71D71}|task03\\ModelLib\\ModelLib.csproj|solutionrelative:task03\\modellib\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0A7E487-5269-4016-8F95-F92228BFE106}|task01\\StringLib.Tests\\StringLib.Tests.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task01\\stringlib.tests\\textutiltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0A7E487-5269-4016-8F95-F92228BFE106}|task01\\StringLib.Tests\\StringLib.Tests.csproj|solutionrelative:task01\\stringlib.tests\\textutiltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C531497E-0142-4438-9702-8BE288EEA33E}|task03\\ModelLib.Tests\\ModelLib.Tests.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task03\\modellib.tests\\phonenumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C531497E-0142-4438-9702-8BE288EEA33E}|task03\\ModelLib.Tests\\ModelLib.Tests.csproj|solutionrelative:task03\\modellib.tests\\phonenumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDE6FB5-2957-442A-9F91-F6B1EA72A446}|task02\\GeometryLib.Tests\\GeometryLib.Tests.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task02\\geometrylib.tests\\triangle2dtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDE6FB5-2957-442A-9F91-F6B1EA72A446}|task02\\GeometryLib.Tests\\GeometryLib.Tests.csproj|solutionrelative:task02\\geometrylib.tests\\triangle2dtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D34864BB-B66E-4DC7-83F5-5CCC21BDF95D}|task02\\GeometryLib\\GeometryLib.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task02\\geometrylib\\triangle2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D34864BB-B66E-4DC7-83F5-5CCC21BDF95D}|task02\\GeometryLib\\GeometryLib.csproj|solutionrelative:task02\\geometrylib\\triangle2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CDE6FB5-2957-442A-9F91-F6B1EA72A446}|task02\\GeometryLib.Tests\\GeometryLib.Tests.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task02\\geometrylib.tests\\vector3tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CDE6FB5-2957-442A-9F91-F6B1EA72A446}|task02\\GeometryLib.Tests\\GeometryLib.Tests.csproj|solutionrelative:task02\\geometrylib.tests\\vector3tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28DEEEF8-9A36-46FC-AF74-B7C4EAC71D71}|task03\\ModelLib\\ModelLib.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task03\\modellib\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28DEEEF8-9A36-46FC-AF74-B7C4EAC71D71}|task03\\ModelLib\\ModelLib.csproj|solutionrelative:task03\\modellib\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28DEEEF8-9A36-46FC-AF74-B7C4EAC71D71}|task03\\ModelLib\\ModelLib.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task03\\modellib\\accountbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28DEEEF8-9A36-46FC-AF74-B7C4EAC71D71}|task03\\ModelLib\\ModelLib.csproj|solutionrelative:task03\\modellib\\accountbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C531497E-0142-4438-9702-8BE288EEA33E}|task03\\ModelLib.Tests\\ModelLib.Tests.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task03\\modellib.tests\\modellib.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C531497E-0142-4438-9702-8BE288EEA33E}|task03\\ModelLib.Tests\\ModelLib.Tests.csproj|solutionrelative:task03\\modellib.tests\\modellib.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CDE6FB5-2957-442A-9F91-F6B1EA72A446}|task02\\GeometryLib.Tests\\GeometryLib.Tests.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task02\\geometrylib.tests\\triangle2dtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CDE6FB5-2957-442A-9F91-F6B1EA72A446}|task02\\GeometryLib.Tests\\GeometryLib.Tests.csproj|solutionrelative:task02\\geometrylib.tests\\triangle2dtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C531497E-0142-4438-9702-8BE288EEA33E}|task03\\ModelLib.Tests\\ModelLib.Tests.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task03\\modellib.tests\\accountbalancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C531497E-0142-4438-9702-8BE288EEA33E}|task03\\ModelLib.Tests\\ModelLib.Tests.csproj|solutionrelative:task03\\modellib.tests\\accountbalancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CDE6FB5-2957-442A-9F91-F6B1EA72A446}|task02\\GeometryLib.Tests\\GeometryLib.Tests.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task02\\geometrylib.tests\\point2dtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,16 +35,28 @@
       "RelativeMoniker": "D:0:0:{D34864BB-B66E-4DC7-83F5-5CCC21BDF95D}|task02\\GeometryLib\\GeometryLib.csproj|solutionrelative:task02\\geometrylib\\vector3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C531497E-0142-4438-9702-8BE288EEA33E}|task03\\ModelLib.Tests\\ModelLib.Tests.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task03\\modellib.tests\\phonenumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C531497E-0142-4438-9702-8BE288EEA33E}|task03\\ModelLib.Tests\\ModelLib.Tests.csproj|solutionrelative:task03\\modellib.tests\\phonenumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0A7E487-5269-4016-8F95-F92228BFE106}|task01\\StringLib.Tests\\StringLib.Tests.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task01\\stringlib.tests\\textutiltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A7E487-5269-4016-8F95-F92228BFE106}|task01\\StringLib.Tests\\StringLib.Tests.csproj|solutionrelative:task01\\stringlib.tests\\textutiltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C531497E-0142-4438-9702-8BE288EEA33E}|task03\\ModelLib.Tests\\ModelLib.Tests.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task03\\modellib.tests\\accountbalancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C531497E-0142-4438-9702-8BE288EEA33E}|task03\\ModelLib.Tests\\ModelLib.Tests.csproj|solutionrelative:task03\\modellib.tests\\accountbalancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0222D54-4E46-4746-B620-705BE9777073}|task01\\StringLib\\StringLib.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task01\\stringlib\\textutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0222D54-4E46-4746-B620-705BE9777073}|task01\\StringLib\\StringLib.csproj|solutionrelative:task01\\stringlib\\textutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DEEEF8-9A36-46FC-AF74-B7C4EAC71D71}|task03\\ModelLib\\ModelLib.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task03\\modellib\\accountbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DEEEF8-9A36-46FC-AF74-B7C4EAC71D71}|task03\\ModelLib\\ModelLib.csproj|solutionrelative:task03\\modellib\\accountbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDE6FB5-2957-442A-9F91-F6B1EA72A446}|task02\\GeometryLib.Tests\\GeometryLib.Tests.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task02\\geometrylib.tests\\vector3tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDE6FB5-2957-442A-9F91-F6B1EA72A446}|task02\\GeometryLib.Tests\\GeometryLib.Tests.csproj|solutionrelative:task02\\geometrylib.tests\\vector3tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0A7E487-5269-4016-8F95-F92228BFE106}|task01\\StringLib.Tests\\StringLib.Tests.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task01\\stringlib.tests\\stringlib.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E0A7E487-5269-4016-8F95-F92228BFE106}|task01\\StringLib.Tests\\StringLib.Tests.csproj|solutionrelative:task01\\stringlib.tests\\stringlib.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C531497E-0142-4438-9702-8BE288EEA33E}|task03\\ModelLib.Tests\\ModelLib.Tests.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task03\\modellib.tests\\modellib.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C531497E-0142-4438-9702-8BE288EEA33E}|task03\\ModelLib.Tests\\ModelLib.Tests.csproj|solutionrelative:task03\\modellib.tests\\modellib.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0222D54-4E46-4746-B620-705BE9777073}|task01\\StringLib\\StringLib.csproj|e:\\edu\\rp__retake\\rp2025-summer\\task01\\stringlib\\stringlib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -82,150 +82,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PhoneNumberTests.cs",
-              "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task03\\ModelLib.Tests\\PhoneNumberTests.cs",
-              "RelativeDocumentMoniker": "task03\\ModelLib.Tests\\PhoneNumberTests.cs",
-              "ToolTip": "E:\\edu\\RP__retake\\rp2025-summer\\task03\\ModelLib.Tests\\PhoneNumberTests.cs",
-              "RelativeToolTip": "task03\\ModelLib.Tests\\PhoneNumberTests.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwHEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T07:58:54.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PhoneNumber.cs",
-              "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task03\\ModelLib\\PhoneNumber.cs",
-              "RelativeDocumentMoniker": "task03\\ModelLib\\PhoneNumber.cs",
-              "ToolTip": "E:\\edu\\RP__retake\\rp2025-summer\\task03\\ModelLib\\PhoneNumber.cs",
-              "RelativeToolTip": "task03\\ModelLib\\PhoneNumber.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAiwFkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T07:58:28.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "AccountBalance.cs",
               "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task03\\ModelLib\\AccountBalance.cs",
               "RelativeDocumentMoniker": "task03\\ModelLib\\AccountBalance.cs",
               "ToolTip": "E:\\edu\\RP__retake\\rp2025-summer\\task03\\ModelLib\\AccountBalance.cs",
               "RelativeToolTip": "task03\\ModelLib\\AccountBalance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T07:49:44.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ModelLib.Tests",
-              "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task03\\ModelLib.Tests\\ModelLib.Tests.csproj",
-              "RelativeDocumentMoniker": "task03\\ModelLib.Tests\\ModelLib.Tests.csproj",
-              "ToolTip": "E:\\edu\\RP__retake\\rp2025-summer\\task03\\ModelLib.Tests\\ModelLib.Tests.csproj",
-              "RelativeToolTip": "task03\\ModelLib.Tests\\ModelLib.Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-18T07:49:43.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Triangle2DTests.cs",
               "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task02\\GeometryLib.Tests\\Triangle2DTests.cs",
               "RelativeDocumentMoniker": "task02\\GeometryLib.Tests\\Triangle2DTests.cs",
               "ToolTip": "E:\\edu\\RP__retake\\rp2025-summer\\task02\\GeometryLib.Tests\\Triangle2DTests.cs",
               "RelativeToolTip": "task02\\GeometryLib.Tests\\Triangle2DTests.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAkwE0AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwBoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T07:49:21.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Point2DTests.cs",
               "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task02\\GeometryLib.Tests\\Point2DTests.cs",
               "RelativeDocumentMoniker": "task02\\GeometryLib.Tests\\Point2DTests.cs",
               "ToolTip": "E:\\edu\\RP__retake\\rp2025-summer\\task02\\GeometryLib.Tests\\Point2DTests.cs",
               "RelativeToolTip": "task02\\GeometryLib.Tests\\Point2DTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T07:48:52.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Triangle2D.cs",
               "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task02\\GeometryLib\\Triangle2D.cs",
               "RelativeDocumentMoniker": "task02\\GeometryLib\\Triangle2D.cs",
               "ToolTip": "E:\\edu\\RP__retake\\rp2025-summer\\task02\\GeometryLib\\Triangle2D.cs",
               "RelativeToolTip": "task02\\GeometryLib\\Triangle2D.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T06:44:29.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Point2D.cs",
               "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task02\\GeometryLib\\Point2D.cs",
               "RelativeDocumentMoniker": "task02\\GeometryLib\\Point2D.cs",
               "ToolTip": "E:\\edu\\RP__retake\\rp2025-summer\\task02\\GeometryLib\\Point2D.cs",
               "RelativeToolTip": "task02\\GeometryLib\\Point2D.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T06:43:45.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Vector3Tests.cs",
               "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task02\\GeometryLib.Tests\\Vector3Tests.cs",
               "RelativeDocumentMoniker": "task02\\GeometryLib.Tests\\Vector3Tests.cs",
               "ToolTip": "E:\\edu\\RP__retake\\rp2025-summer\\task02\\GeometryLib.Tests\\Vector3Tests.cs",
               "RelativeToolTip": "task02\\GeometryLib.Tests\\Vector3Tests.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAiwIQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAQwIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T06:39:56.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "Vector3.cs",
               "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task02\\GeometryLib\\Vector3.cs",
               "RelativeDocumentMoniker": "task02\\GeometryLib\\Vector3.cs",
               "ToolTip": "E:\\edu\\RP__retake\\rp2025-summer\\task02\\GeometryLib\\Vector3.cs",
               "RelativeToolTip": "task02\\GeometryLib\\Vector3.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAmwF0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwF0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T06:39:54.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "TextUtilTest.cs",
               "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task01\\StringLib.Tests\\TextUtilTest.cs",
               "RelativeDocumentMoniker": "task01\\StringLib.Tests\\TextUtilTest.cs",
               "ToolTip": "E:\\edu\\RP__retake\\rp2025-summer\\task01\\StringLib.Tests\\TextUtilTest.cs",
               "RelativeToolTip": "task01\\StringLib.Tests\\TextUtilTest.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwGEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwGEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T06:39:48.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "TextUtil.cs",
               "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task01\\StringLib\\TextUtil.cs",
               "RelativeDocumentMoniker": "task01\\StringLib\\TextUtil.cs",
@@ -238,7 +199,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
+              "Title": "PhoneNumberTests.cs",
+              "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task03\\ModelLib.Tests\\PhoneNumberTests.cs",
+              "RelativeDocumentMoniker": "task03\\ModelLib.Tests\\PhoneNumberTests.cs",
+              "ToolTip": "E:\\edu\\RP__retake\\rp2025-summer\\task03\\ModelLib.Tests\\PhoneNumberTests.cs",
+              "RelativeToolTip": "task03\\ModelLib.Tests\\PhoneNumberTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:58:54.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AccountBalanceTests.cs",
               "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task03\\ModelLib.Tests\\AccountBalanceTests.cs",
               "RelativeDocumentMoniker": "task03\\ModelLib.Tests\\AccountBalanceTests.cs",
@@ -251,29 +225,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StringLib",
-              "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task01\\StringLib\\StringLib.csproj",
-              "RelativeDocumentMoniker": "task01\\StringLib\\StringLib.csproj",
-              "ToolTip": "E:\\edu\\RP__retake\\rp2025-summer\\task01\\StringLib\\StringLib.csproj",
-              "RelativeToolTip": "task01\\StringLib\\StringLib.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-18T06:39:43.347Z",
+              "DocumentIndex": 0,
+              "Title": "PhoneNumber.cs",
+              "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task03\\ModelLib\\PhoneNumber.cs",
+              "RelativeDocumentMoniker": "task03\\ModelLib\\PhoneNumber.cs",
+              "ToolTip": "E:\\edu\\RP__retake\\rp2025-summer\\task03\\ModelLib\\PhoneNumber.cs",
+              "RelativeToolTip": "task03\\ModelLib\\PhoneNumber.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAiwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:58:28.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "StringLib.Tests",
+              "DocumentIndex": 12,
+              "Title": "StringLib.Tests.csproj",
               "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task01\\StringLib.Tests\\StringLib.Tests.csproj",
               "RelativeDocumentMoniker": "task01\\StringLib.Tests\\StringLib.Tests.csproj",
               "ToolTip": "E:\\edu\\RP__retake\\rp2025-summer\\task01\\StringLib.Tests\\StringLib.Tests.csproj",
               "RelativeToolTip": "task01\\StringLib.Tests\\StringLib.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-18T06:39:41.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T06:39:41.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ModelLib.Tests.csproj",
+              "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task03\\ModelLib.Tests\\ModelLib.Tests.csproj",
+              "RelativeDocumentMoniker": "task03\\ModelLib.Tests\\ModelLib.Tests.csproj",
+              "ToolTip": "E:\\edu\\RP__retake\\rp2025-summer\\task03\\ModelLib.Tests\\ModelLib.Tests.csproj",
+              "RelativeToolTip": "task03\\ModelLib.Tests\\ModelLib.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T07:49:43.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StringLib.csproj",
+              "DocumentMoniker": "E:\\edu\\RP__retake\\rp2025-summer\\task01\\StringLib\\StringLib.csproj",
+              "RelativeDocumentMoniker": "task01\\StringLib\\StringLib.csproj",
+              "ToolTip": "E:\\edu\\RP__retake\\rp2025-summer\\task01\\StringLib\\StringLib.csproj",
+              "RelativeToolTip": "task01\\StringLib\\StringLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T06:39:43.347Z"
             }
           ]
         }

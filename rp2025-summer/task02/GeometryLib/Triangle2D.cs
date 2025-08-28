@@ -22,7 +22,7 @@ public class Triangle2D
         this.c = c;
     }
 
-    public double SideAB
+    public double Side1
     {
         get
         {
@@ -30,7 +30,7 @@ public class Triangle2D
         }
     }
 
-    public double SideBC
+    public double Side2
     {
         get
         {
@@ -38,7 +38,7 @@ public class Triangle2D
         }
     }
 
-    public double SideCA
+    public double Side3
     {
         get
         {
@@ -50,7 +50,7 @@ public class Triangle2D
     {
         get
         {
-            return this.SideAB + this.SideBC + this.SideCA;
+            return this.Side1 + this.Side2 + this.Side3;
         }
     }
 
@@ -59,7 +59,7 @@ public class Triangle2D
         get
         {
             double p = this.Perimeter / 2;
-            return Math.Sqrt(p * (p - this.SideAB) * (p - this.SideBC) * (p - this.SideCA));
+            return Math.Sqrt(p * (p - this.Side1) * (p - this.Side2) * (p - this.Side3));
         }
     }
 
@@ -75,9 +75,9 @@ public class Triangle2D
 
     public bool IsRightAngled()
     {
-        bool firstOption = Math.Pow(this.SideAB, 2) == Math.Pow(this.SideBC, 2) + Math.Pow(this.SideCA, 2);
-        bool secondOption = Math.Pow(this.SideBC, 2) == Math.Pow(this.SideAB, 2) + Math.Pow(this.SideCA, 2);
-        bool thirdOption = Math.Pow(this.SideCA, 2) == Math.Pow(this.SideAB, 2) + Math.Pow(this.SideBC, 2);
+        bool firstOption = Math.Pow(this.Side1, 2) == Math.Pow(this.Side2, 2) + Math.Pow(this.Side3, 2);
+        bool secondOption = Math.Pow(this.Side2, 2) == Math.Pow(this.Side1, 2) + Math.Pow(this.Side3, 2);
+        bool thirdOption = Math.Pow(this.Side3, 2) == Math.Pow(this.Side1, 2) + Math.Pow(this.Side2, 2);
         return firstOption || secondOption || thirdOption;
     }
 
