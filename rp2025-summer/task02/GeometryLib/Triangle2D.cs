@@ -5,9 +5,9 @@ namespace GeometryLib;
 
 public class Triangle2D
 {
-    private readonly Point2D a;
-    private readonly Point2D b;
-    private readonly Point2D c;
+    public Point2D A { get; }
+    public Point2D B { get; }
+    public Point2D C { get; }
 
     public Triangle2D(Point2D a, Point2D b, Point2D c)
     {
@@ -17,16 +17,16 @@ public class Triangle2D
             throw new ArgumentException("Все три точки лежат на одной прямой");
         }
 
-        this.a = a;
-        this.b = b;
-        this.c = c;
+        A = a;
+        B = b;
+        C = c;
     }
 
     public double Side1
     {
         get
         {
-            return a.DistanceTo(b);
+            return A.DistanceTo(B);
         }
     }
 
@@ -34,7 +34,7 @@ public class Triangle2D
     {
         get
         {
-            return b.DistanceTo(c);
+            return B.DistanceTo(C);
         }
     }
 
@@ -42,7 +42,7 @@ public class Triangle2D
     {
         get
         {
-            return c.DistanceTo(a);
+            return C.DistanceTo(A);
         }
     }
 
@@ -50,7 +50,7 @@ public class Triangle2D
     {
         get
         {
-            return this.Side1 + this.Side2 + this.Side3;
+            return Side1 + Side2 + Side3;
         }
     }
 
@@ -58,8 +58,8 @@ public class Triangle2D
     {
         get
         {
-            double p = this.Perimeter / 2;
-            return Math.Sqrt(p * (p - this.Side1) * (p - this.Side2) * (p - this.Side3));
+            double p = Perimeter / 2;
+            return Math.Sqrt(p * (p - Side1) * (p - Side2) * (p - Side3));
         }
     }
 
@@ -67,26 +67,26 @@ public class Triangle2D
     {
         get
         {
-            double gx = (a.X + b.X + c.X) / 3;
-            double gy = (a.Y + b.Y + c.Y) / 3;
+            double gx = (A.X + B.X + C.X) / 3;
+            double gy = (A.Y + B.Y + C.Y) / 3;
             return new Point2D(x: gx, y: gy);
         }
     }
 
     public bool IsRightAngled()
     {
-        bool firstOption = Math.Pow(this.Side1, 2) == Math.Pow(this.Side2, 2) + Math.Pow(this.Side3, 2);
-        bool secondOption = Math.Pow(this.Side2, 2) == Math.Pow(this.Side1, 2) + Math.Pow(this.Side3, 2);
-        bool thirdOption = Math.Pow(this.Side3, 2) == Math.Pow(this.Side1, 2) + Math.Pow(this.Side2, 2);
+        bool firstOption = Math.Pow(Side1, 2) == Math.Pow(Side2, 2) + Math.Pow(Side3, 2);
+        bool secondOption = Math.Pow(Side2, 2) == Math.Pow(Side1, 2) + Math.Pow(Side3, 2);
+        bool thirdOption = Math.Pow(Side3, 2) == Math.Pow(Side1, 2) + Math.Pow(Side2, 2);
         return firstOption || secondOption || thirdOption;
     }
 
     public bool Contains(Point2D point)
     {
-        double areaABC = TriangleArea(a, b, c);
-        double areaPAB = TriangleArea(point, a, b);
-        double areaPBC = TriangleArea(point, b, c);
-        double areaPCA = TriangleArea(point, c, a);
+        double areaABC = TriangleArea(A, B, C);
+        double areaPAB = TriangleArea(point, A, B);
+        double areaPBC = TriangleArea(point, B, C);
+        double areaPCA = TriangleArea(point, C, A);
 
         return Math.Abs(areaABC - (areaPAB + areaPBC + areaPCA)) < 1e-10;
     }
